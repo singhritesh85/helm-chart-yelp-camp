@@ -10,7 +10,7 @@ data:
   CLOUDINARY_SECRET: UlpfckVDbmhqZDEySU51eVVHVVhaSkNHWHU0
   MAPBOX_TOKEN: cGsuZXlKMUlqb2lhMkZ0WVd4dGIyaGhiakl4TnlJc0ltRWlPaUpqYlRNNFkzWjJiMkl3Ym5GME1teHpNbk14YVc5dllYQjRJbjAuNEVNaC1UcUhTeFZ0dTlKS1FjOGpWZw==
   DB_URL: bW9uZ29kYitzcnY6Ly9tb25nbzpBZG1pbjEyM0BkZXh0ZXIudWUwcW4ubW9uZ29kYi5uZXQvP3JldHJ5V3JpdGVzPXRydWUmdz1tYWpvcml0eSZhcHBOYW1lPWRleHRlcg==
-  SECRET: ZXhwbGljYXRlZGV2b3BzCg== 
+  SECRET: ZXhwbGljYXRlZGV2b3Bz
 ---
 apiVersion: apps/v1
 kind: Deployment
